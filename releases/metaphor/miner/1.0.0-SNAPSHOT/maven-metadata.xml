@@ -2,12 +2,12 @@
 <metadata>
   <groupId>metaphor</groupId>
   <artifactId>miner</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0.0</version>
-      <version>1.0.0-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20130907.085104</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
     <lastUpdated>20130907085104</lastUpdated>
   </versioning>
 </metadata>
